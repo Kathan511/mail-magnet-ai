@@ -23,7 +23,7 @@ Create a `.streamlit/secrets.toml` file and add your OpenAI API key.
 OPENAI_API_KEY = "XXXXXXXXXXX"
 ```
 
-## Step 2 
+## Step 3 
 Run the app using the following command to start the web app.
 `streamlit run main.py`
 
